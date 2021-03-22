@@ -12,6 +12,6 @@ You've reached my profile! Here is some information about me.
 I **never** use GitHub.
 
 Here is something mandatory for everyone to do for them to look cool.
-![Info about me
+![Info about me.](https://github-readme-stats.vercel.app/api?username=TheLastGamer18)
 
 I don't know why I am using GitHub's template for this but who cares.
