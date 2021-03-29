@@ -14,4 +14,4 @@ I **never** use GitHub.
 Here is something mandatory for everyone to do for them to look cool.
 ![Info about me.](https://github-readme-stats.vercel.app/api?username=TheLastGamer18&show_icons=true&theme=radical)
 
-I don't know why I am using GitHub's template for this but who cares.
+That is all I guess.
